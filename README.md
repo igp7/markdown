@@ -166,14 +166,14 @@ En el caso que queramos marcar la tarea como realizada tenemos que reemplazar el
 
 Por ejemplo:
 ```
-[X] Opción marcada
-[ ] Opción sin marcar
+- [X] Opción marcada
+- [ ] Opción sin marcar
 ```
 
 Visualización del ejemplo en markdown:
 
-[X] Opción marcada
-[ ] Opción sin marcar
+- [x] Opción marcada
+- [ ] Opción sin marcar
 
 **Nota:** Hay algunos editores de markdown que no permiten la visualización de checklists.
 
